@@ -1,0 +1,5 @@
+Starting continuous monitoring...
+Timestamp, CPU Usage (% user), CPU Usage (% sys), CPU Usage (% idle), Load Average (1m), Load Average (5m), Load Average (15m), Max Vnodes, Recvspace, Sendspace, Delayed Ack, Download Speed (Mbps), Upload Speed (Mbps), Bluetooth Devices Connected
+2024-05-29 15:49:57, 21.59% 13.39% 65.1%,  5.96 7.02 6.51, 600000, 65536, 65536, 0, 675.58, 107.96,        0
+2024-05-29 15:51:15, 10.52% 11.50% 77.97%,  3.79 6.08 6.19, 600000, 65536, 65536, 0, 636.82, 89.17,        0
+2024-05-29 15:52:33, 12.7% 9.16% 78.75%,  3.52 5.51 5.97, 600000, 65536, 65536, 0, 190.03, 78.56,        0
